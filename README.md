@@ -25,7 +25,7 @@
 
 🧠 Programming Technician student at UTN - Facultad Regional Resistencia (FRRe).
 
-🌱 Currently developing skills in Python, Java, Spring Framework, TypeScript, PHP, Laravel, MySQL, SQL Server, and React.
+🌱 Currently developing skills in Py, JS
 
 💻 Passionate about software development, security, networking, and continuous learning.
 
