@@ -10,7 +10,6 @@
   <a href="https://mvisnuk.netlify.app/">Portfolio</a> ·
   <a href="https://github.com/Manuel0803">GitHub</a>
 </p>
-##
 
 ## About me
 
@@ -57,13 +56,3 @@ Currently, I'm strengthening my skills in:
 | Vivir Plenamente | Web platform focused on accessibility, clear navigation and dynamic content for older adults. | Astro, React, TypeScript, JavaScript | [Demo](https://www.vivirplenamente.com.ar/) · [Code](https://github.com/Manuel0803/vp-backend) |
 | Wedding Invitation Website | Digital wedding invitation with attendance confirmation, event details, calendar integration and music suggestions. | React, Vite, JavaScript, SheetDB, Figma | [Demo](https://paoydani.netlify.app/) · [Code](https://github.com/Manuel0803/WEB_casamiento_PD) |
 | Pulso Digital | Robotics news portal with users, CRUD operations, comments and content filtering. | Python, Django, MySQL, Tailwind CSS | [Demo](https://pulsodigital.pythonanywhere.com/) · [Code](https://github.com/juampibolanio/pulso-digital-website) |
-
-## GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Manuel0803&show_icons=true&theme=dark&hide_border=true" alt="GitHub Stats" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Manuel0803&layout=compact&theme=dark&hide_border=true" alt="Top Languages" />
-</p>
